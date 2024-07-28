@@ -1,0 +1,26 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex 0928f9a..f0827a2 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -10,7 +10,7 @@[m
+       <link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.0.0/css/all.css">[m
+       <link rel="stylesheet" href="style.css">[m
+ 	</head>[m
+[31m-	<body>[m
+[32m+[m	[32m<body class="bodyclass">[m
+ 		<nav class="navigation">[m
+ 			<div class="container">[m
+ 				<ul>[m
+[36m@@ -181,10 +181,10 @@[m
+ 		            </form>[m
+ 		            <div class="contact-child2">[m
+ 		                <h2>sales specialist</h2>[m
+[31m-		                <p>Patryk Bagan</p>[m
+[32m+[m		[32m                <p class="fullname">Patryk Bagan</p>[m
+ 		                <h2>adress</h2>[m
+ 		                <p>299 Browning Lane</p><p>Cortland</p><p>13045 New York</p>[m
+[31m-		                <h2>phone number</h2>[m
+[32m+[m		[32m                <h2>phone</h2>[m
+ 		                <p>607-835-7016</p>[m
+ 		            </div>[m
+ 		        </div>[m
